@@ -7,4 +7,4 @@
 ╚═╝     ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝ ╚═════╝ ╚═╝     ╚═╝       ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝
 ```
 
-Check [handbook](https://github.com/flurium/handbook)
+[Посібник](https://github.com/flurium/handbook)
