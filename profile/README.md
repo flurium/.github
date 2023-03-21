@@ -5,9 +5,10 @@
 ## Auction platform: BidMe
 
 GitHub repo: [flurium/bidme](https://github.com/flurium/bidme)
+
 Website: [bidme.onrender.com](https://bidme.onrender.com)
 
-Used technologies:
+### Technologies:
 - ASP.NET Core MVC
 - PostgreSQL
 - Bootstrap (with custom theme)
@@ -15,7 +16,7 @@ Used technologies:
 - Identity Framework
 - Docker
 
-Infrastructure: 
+### Infrastructure: 
 - Render for deployment
 - Supabase for database
 - SendGrid for sending emails
@@ -24,9 +25,10 @@ Infrastructure:
 ## Sales platform: Thing
 
 GitHub repo: [flurium/thing](https://github.com/flurium/thing)
+
 Website: [thing-wtcg.onrender.com](https://thing-wtcg.onrender.com)
 
-Used technologies:
+### Technologies:
 - ASP.NET Core MVC
 - PostgreSQL
 - Bootstrap
@@ -34,7 +36,7 @@ Used technologies:
 - Identity Framework
 - Docker
 
-Infrastructure: 
+### Infrastructure: 
 - Render for deployment
 - Supabase for database
 - SendGrid for sending emails
@@ -44,7 +46,7 @@ Infrastructure:
 
 GitHub repo: [flurium/babble](https://github.com/flurium/babble)
 
-Used technologies:
+### Technologies:
 - C#
 - WPF
 - Clean UDP and TCP networking
