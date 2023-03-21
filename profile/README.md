@@ -50,4 +50,5 @@ GitHub repo: [flurium/babble](https://github.com/flurium/babble)
 - C#
 - WPF
 - Clean UDP and TCP networking
+- Hybrid network system is used (centralized and decentralized).
 - Entity Framework Core
