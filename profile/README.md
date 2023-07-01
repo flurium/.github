@@ -2,7 +2,7 @@
 
 # Projects
 
-## Agency website:
+## Agency website
 
 Date: June 27, 2023 - now
 
