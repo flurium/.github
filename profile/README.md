@@ -16,7 +16,7 @@ Date: Feb 2, 2023 - Mar 6, 2023
 
 GitHub repo: [flurium/bidme](https://github.com/flurium/bidme)
 
-Website: [bidme.onrender.com](https://bidme.onrender.com)
+Website: [bidme.flurium.com](https://bidme.flurium.com)
 
 ## Sales platform: Thing
 
@@ -24,7 +24,7 @@ Date: Dec 28, 2022 - Jan 23, 2023
 
 GitHub repo: [flurium/thing](https://github.com/flurium/thing)
 
-Website: [thing-wtcg.onrender.com](https://thing-wtcg.onrender.com)
+Website: [thing.flurium.com](https://thing.flurium.com)
 
 ## Desktop chat: BabbleUp
 
