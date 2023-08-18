@@ -9,6 +9,8 @@ Repos:
 - Shop: [flurium/spentoday-shop](https://github.com/flurium/spentoday-shop)
 - API: [flurium/spentoday-api](https://github.com/flurium/spentoday-api)
 
+Website: [spentoday.com](https://www.spentoday.com)
+
 ## Agency website
 
 GitHub repo: [flurium/agency](https://github.com/flurium/agency)
