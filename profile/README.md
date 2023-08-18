@@ -2,9 +2,14 @@
 
 # Projects
 
-## Agency website
+## Spentoday
 
-Date: June 27, 2023 - now
+Repos:
+- Site: [flurium/spentoday](https://github.com/flurium/spentoday)
+- Shop: [flurium/spentoday-shop](https://github.com/flurium/spentoday-shop)
+- API: [flurium/spentoday-api](https://github.com/flurium/spentoday-api)
+
+## Agency website
 
 GitHub repo: [flurium/agency](https://github.com/flurium/agency)
 
